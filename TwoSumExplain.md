@@ -8,9 +8,9 @@ En este caso puedes dar la respuesta en cualquier orden.
 
 **Constrains:**
 
-**2 <= nums.length <= 10^4**\
-**-10^9 <= nums[i] <= 10^9**\ 
-**-10^9 <= target <= 10^9**\
+- **2 <= nums.length <= 10^4**
+- **-10^9 <= nums[i] <= 10^9**
+- **-10^9 <= target <= 10^9**
 
 **Solo una repsuesta valida existe.**
 
